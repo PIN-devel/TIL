@@ -35,13 +35,13 @@
 6. 리모트(원격 저장소) 등록하기
 
    ```sh 
-   git remote add origin 원격저장소 주소
+   $ git remote add origin 원격저장소 주소
    ```
 
 7. 파일 푸쉬하기(업로드하기)
 
    ```sh
-   $git push origin master
+   $ git push origin master
    ```
 
    
